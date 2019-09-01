@@ -13,7 +13,7 @@ body {
 
 .wrapper header.header .blue {
     bottom: -65px;
-    height: 525px;
+    height: 0px;
     overflow: hidden;
     position: absolute;
     width: 100%;
@@ -76,10 +76,10 @@ body {
 .wrapper header.header .white img,
 .wrapper header.header .blue img {
     width: 100%;
+    height: 400px;
 }
 
 .wrapper header.header .white {
-    bottom: -105px;
     height: 525px;
     overflow: hidden;
     position: absolute;

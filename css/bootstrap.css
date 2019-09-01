@@ -2006,7 +2006,7 @@ pre code {
 
 @media (min-width: 1440px) {
     .container {
-        width: 1440px;
+        width: auto;
     }
 }
 
